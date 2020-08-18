@@ -1,0 +1,29 @@
+#0 bonjour (<eps>|madame|monsieur|mademoiselle)
+#0 je suis $PERSONNE (<eps>|aujourd'hui)
+#0 c'est moi (<eps>|qui suis) $PERSONNE (<eps>|aujourd'hui)
+#0 $ASSURANCE
+#0 (<eps>|en cas d'hospitalisation) la couverture (<eps>|d'assurance) est-elle $ASSURANCE (<eps>|en cas d'hospitalisation)
+#0 votre assurance (<eps>|hospitalisation) est-elle $ASSURANCE (<eps>|en cas d'hospitalisation)
+#0 $AVEZ_VOUS assurance (<eps>|hospitalisation) $ASSURANCE (<eps>|en cas d'hospitalisation)
+#0 $ÉTAT_CIVIL
+#0 (<eps>|$ÊTES_VOUS) $ÉTAT_CIVIL
+#0 (<eps>|$ÊTES_VOUS) (veuf|veuve)
+#0 $AVEZ_VOUS un mari
+#0 $AVEZ_VOUS une femme
+#AVEZ_VOUS avez-vous #AVEZ_VOUS
+#AVEZ_VOUS est-ce que vous avez #AVEZ_VOUS
+#AVEZ_VOUS vous avez #AVEZ_VOUS
+#ÊTES_VOUS (<eps>|est-ce que) vous êtes #ÊTES_VOUS
+#ÊTES_VOUS êtes-vous #ÊTES_VOUS
+#ÊTES_VOUS avez-vous été #ÊTES_VOUS
+#ÊTES_VOUS (<eps>|est-ce que) vous avez été #ÊTES_VOUS
+#PERSONNE (votre|le|un) (docteur|médecin) (<eps>|de service) #PERSONNE
+#PERSONNE (votre|la|une) doctoresse #PERSONNE
+#PERSONNE (l'infirmière|votre infirmière) #PERSONNE
+#ASSURANCE privée #ASSURANCE
+#ASSURANCE semi-privée #ASSURANCE
+#ASSURANCE en chambre commune #ASSURANCE
+#ÉTAT_CIVIL (marié|mariée) #ÉTAT_CIVIL
+#ÉTAT_CIVIL célibataire #ÉTAT_CIVIL
+#ÉTAT_CIVIL (divorcé|divorcée) #ÉTAT_CIVIL
+#ÉTAT_CIVIL (séparée|séparée) #ÉTAT_CIVIL
