@@ -86,5 +86,5 @@ The **`genGrammar.sh`** script which will take care of the grammar generation in
    - **Functions involved**: `replace_FST`
    - **Exit folder** : `./demoFST/replaceFST/*` &rarr;**(Note: the resulting grammar will be found on this folder by the name of `G.fst`).**
 
-    ###    Once the `G.fst`file is generated, it can be used as a language model in your Kaldi ASR experiments!
+###    Once the `G.fst`file is generated, it can be used as a language model in your Kaldi ASR experiments!
 
