@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# EXECUTION :  source initPaths_Docker.sh
+# EXECUTION :  source initPaths.sh
 
 WORK_DIR=/home/Grammar-Tools-ASR # Or the one you picked!
 KALDI_DIR=/home/kaldi # Or the one you picked!
