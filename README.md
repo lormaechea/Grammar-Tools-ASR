@@ -27,7 +27,7 @@ Once you have installed Kaldi, you can load its path by using the `source`  comm
 
 As for the grammar generation, it results from the consecutive execution of **2 scripts**, whose functioning is detailed below. 
 
-#### 1. Data preparation and normalization − `prepareGrammar.pl`
+### 1. Data preparation and normalization − `prepareGrammar.pl`
 
 In order to prepare our data, we will use the Perl `prepareGrammar.pl` script, which will:
 
@@ -53,7 +53,7 @@ From which we will get the subsequent files as output (let's assume that `demo.t
   
 
 
-#### 2. Grammar compilation with OpenFST − `genGrammar.sh`
+### 2. Grammar compilation with OpenFST − `genGrammar.sh`
 
 Once the normalized files have been produced, we can move on to the compilation stage. For this purpose, we will use the Bash script `genGrammar.sh`. In order to launch it, the following command needs to be used:
 
