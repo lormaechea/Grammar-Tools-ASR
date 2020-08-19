@@ -42,9 +42,9 @@ From which we will get the subsequent files as output (let's assume that `demo.t
 
 - `demo_main.txt` &rarr; Main grammar.
 
-- `demo_sub.txt` &rarr;Sub-grammars.
+- `demo_sub.txt` &rarr; Sub-grammars.
 
-- `demo_main_norm.txt` &rarr;Normalized main grammar.
+- `demo_main_norm.txt` &rarr; Normalized main grammar.
 
 - `demo_sub_norm.txt `&rarr; Normalized sub-grammars.
 
