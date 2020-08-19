@@ -23,7 +23,7 @@ In order to properly run Grammar-Tools-ASR, it is necessary to previously instal
 
 Once you have installed Kaldi, you can load its path by using the `source`  command and editing (if necessary) the `initPaths.sh` script made available in the main directory. 
 
-    $ source initPaths
+    $ source initPaths.sh
 
 As for the grammar generation, it results from the consecutive execution of **2 scripts**, whose functioning is detailed below. 
 
